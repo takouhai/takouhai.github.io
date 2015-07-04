@@ -1,0 +1,103 @@
+body
+    {    
+        /* The following is CSS3. */
+        background: 
+            linear-gradient(27deg, #222 5px, transparent 5px) 0px 10px,
+            linear-gradient(207deg, #222 5px, transparent 5px) 10px 5px,
+            linear-gradient(90deg, #1b1b1b 10px, transparent 10px),
+            linear-gradient(#1d1d1d 25%, #1a1a1a 25%, #1a1a1a 50%, transparent 50%, transparent 75%, #242424 75%, #242424);
+            background-color: #151515;
+            background-size: 20px 20px;
+        /* This style was taken from http://lea.verou.me/css3patterns/#carbon and edited a little for coloring purposes. Please go there and show them love. :3 */
+        color: #eee;
+        font-family: 'Raleway', sans-serif;
+    }
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6
+    {
+        font-family: 'Raleway', sans-serif;
+        color: #00ff00;   
+    }
+
+/* unvisited link */
+a:link {
+    color: #00ff00;
+}
+
+/* visited link */
+a:visited {
+    color: #00ff00;
+}
+
+/* mouse over link */
+a:hover {
+    color: #FF8700;
+}
+
+/* selected link */
+a:active {
+    color: #FF8700;
+}
+
+#currenttitle
+    {
+        color: #00ff00;
+        text-align: center;
+        background-color: #151515;
+    }
+.server-msg-reconnect
+    {
+        border: 1px solid #00ff00;
+        background-color: #151515;
+        color: #00ff00;
+    }
+#queue
+    {
+        color: #00ff00;
+    }
+.butt
+    {
+        background-image: url(../../img/sunset.png);
+    }
+
+.shade
+    {
+        -webkit-box-shadow: 0px 0px 60px 10px rgba(0,0,0,1);
+        -moz-box-shadow: 0px 0px 60px 10px rgba(0,0,0,1);
+        box-shadow: 0px 0px 60px 10px rgba(0,0,0,1);
+    }
+
+.typed-cursor{
+    opacity: 1;
+    -webkit-animation: blink 0.7s infinite;
+    -moz-animation: blink 0.7s infinite;
+    animation: blink 0.7s infinite;
+}
+
+@keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+}
+
+@-webkit-keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+}
+
+@-moz-keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+}    
+
+#delay {
+  -webkit-animation-delay: 14s;
+  color: #eee;
+}
+
+#delay2 {
+  -webkit-animation-delay: 14.25s;
+  color: #eee;
+}
