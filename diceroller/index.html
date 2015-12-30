@@ -31,6 +31,7 @@
         console.log(flair);
         console.log("TACO'S SUPER COOL D&D DICE ROLLER v0.1")
         console.log(flair);
+
         function rollDice() {
 
             // Check the type of die we're using and the amount of dice that we're rolling
@@ -38,10 +39,12 @@
             var dietype = dx.options[dx.selectedIndex].value;
             var xdx = document.getElementById("xdx");
             var dicenumber = xdx.options[xdx.selectedIndex].value;
+            var exporttext = document.getElementById("exporttext");
 
             // Define total and log as numeric and string values
             var rolllog = "";
             var rolltotal = 0;
+            var roll = 0;
 
             // Define the values of the modifier
             var modplus = document.getElementById("modplus").checked;
@@ -61,11 +64,11 @@
                 modvalue = "";
             };
 
-            console.log ("MODIFIER: " + modvalue + modifier);
+            console.log("MODIFIER: " + modvalue + modifier);
 
             //Append values of roll to roll log
 
-            rolllog =  "(" + dicenumber + "d" + dietype + ")" + modvalue + modifier + ": ";
+            rolllog = "(" + dicenumber + "d" + dietype + ")" + modvalue + modifier + ": ";
 
             //Do the actual roll function
 
@@ -76,20 +79,32 @@
             };
 
             //Add the modifier to the end of the Roll Log so that we know what it is in the end
-
             rolllog = rolllog + modvalue + modifier;
 
             console.log(flair);
             console.log("ROLL LOG: " + rolllog);
             console.log("TOTAL DICE: " + rolltotal);
-            console.log(flair);
 
+            var copylog = "< " + dicenumber + "d" + dietype + modvalue + modifier + ": " + rolltotal
+            if (dietype == 20 && dicenumber == 1) {
+                if (roll == 20) {
+                    copylog = copylog + " - [Natural 20]"
+                } else if (roll == 1) {
+                    copylog = copylog + " - [Natural 1]"
+                }
+                copylog = copylog + " >"
+            } else {
+                copylog = copylog + " >"
+            }
+            console.log("COPY LOG: " + copylog);
+            console.log(flair);
             // Grabs output boxes and makes them their BITCH
             var rawdice = document.getElementById("rawdice");
             var totaldice = document.getElementById("totaldice");
 
             rawdice.value = rolllog;
             totaldice.value = rolltotal;
+            exporttext.value = copylog;
         }
         </script>
         <div class="form-horizontal">
@@ -750,14 +765,12 @@
                     <input class="form-control" id="totaldice" type="text" disabled>
                 </div>
             </div>
-            <!--
             <div class="form-group">
                 <label for="raw-dice" class="col-sm-2 control-label">&nbsp;</label>
                 <div class="col-sm-10">
                     <input class="form-control" id="exporttext" type="text">
                 </div>
             </div>
-            -->
         </div>
         <hr>
         <p class="text-muted text-center">&copy; <a href="http://tacowolf.net">TacoWolf</a></p>
