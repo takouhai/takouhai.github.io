@@ -1,9 +1,9 @@
-thattacoguy.net
+[daniel.ga](https://daniel.ga)
 ---
 
-Source Code for my [porfolio website](http://thattacoguy.net).
+Source Code for my [porfolio website](https://daniel.ga).
 
-**ttg.net** follows the normal TacoWolf design scheme, and implements a few elements such as [typed.js](mattboldt/typed.js) and [animate.css](daneden/animate.css). It also has my face, so that's fun. It runs primarily off of [Bootstrap 3](http://getbootstrap.com/), as do most of my web projects.
+**daniel.ga** follows the new and updated TacoWolf design scheme, and implements a few elements such as [Skeleton](dhg/Skeleton) and [Font Awesome](FortAwesome/Font-Awesome). It also has my pixelated face, so that's fun. 
 
 ###LICENSE
 
