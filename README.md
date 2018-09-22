@@ -1,4 +1,4 @@
-![hey, that's me!](https://raw.githubusercontent.com/takouhai/takouhai.github.io/og-tags/assets/img/takouhai_white_smile.png)
+![hey, that's me!](https://github.com/takouhai/takouhai.github.io/blob/master/assets/img/takouhai_white_smile.png?raw=true)
 
 # [daniel.ga/llegos](https://daniel.ga/llegos)
 
