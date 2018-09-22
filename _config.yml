@@ -1,0 +1,15 @@
+title: daniel.ga/llegos
+email:
+description: The portfolio website for Daniel A. Gallegos
+baseurl: ""
+url: "https://daniel.ga"
+twitter_username: takouhai
+github_username:  takouhai
+
+theme:
+
+markdown: kramdown
+
+sass:
+  sass_dir: _sass
+  style: compressed
