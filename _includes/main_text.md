@@ -8,6 +8,8 @@
 
 **pronouns:** `he/him` or `they/them`
 
+---
+
 Hey! I'm Daniel.
 
 I'm a Software Developer, Web Developer, and Graphic Designer.
