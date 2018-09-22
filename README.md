@@ -1,3 +1,5 @@
+![hey, that's me!](https://github.com/takouhai/takouhai.github.io/blob/master/assets/img/takouhai_white_smile.png?raw=true)
+
 # [daniel.ga/llegos](https://daniel.ga/llegos)
 
 This is my portfolio website. There are many like it, but this one is mine.
