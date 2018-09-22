@@ -1,10 +1,18 @@
-[daniel.ga](https://daniel.ga)
----
+# [daniel.ga/llegos](https://daniel.ga/llegos)
 
-Source Code for my [porfolio website](https://daniel.ga).
+This is my portfolio website. There are many like it, but this one is mine.
 
-**daniel.ga** follows the new and updated TacoWolf design scheme, and implements a few elements such as [Skeleton](dhg/Skeleton) and [Font Awesome](FortAwesome/Font-Awesome). It also has my pixelated face, so that's fun. 
+It's a constant work in progress.
 
-###LICENSE
+## things used:
+* Jekyll (Markdown :heart:)
+* GitHub Pages (Free hosting, w00t!)
+* HTML5/CSS3/JS (and more buzzwords)
+* [SMACCS](https://smacss.com/) for SASS layout
+* [BEM](http://getbem.com/) for CSS structure
 
-This project is licensed under the terms of the MIT license, which can be found [here.](LICENSE.md)
+## code license:
+[MIT](/LICENSE.md)
+
+## content:
+:copyright: Daniel A. Gallegos 2018
