@@ -9,3 +9,8 @@ description: aren't you clever
 
 ### 🌈 daniel gay 🌈
 {: .gay}
+
+(actually it's daniel demisexual but ok)
+
+(that sounds like a cool superhero name)
+{: .small}
