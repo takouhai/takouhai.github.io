@@ -3,11 +3,15 @@ layout: default
 title: ha ha ha - daniel.ga/y 🌈
 description: aren't you clever
 ---
-# yeah
 
-## that me
+# daniel a gay
+---
 
-### 🌈 daniel gay 🌈
+## yeah
+
+### that me
+
+#### 🌈 daniel gay 🌈
 {: .gay}
 
 (actually it's daniel demisexual but ok)
