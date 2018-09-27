@@ -4,5 +4,5 @@ layout: default
 ---
 {% include main_text.md %}
 <script>
-  window.onLoad(fakeRedirect());
+  fakeRedirect();
 </script>
