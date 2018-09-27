@@ -4,7 +4,7 @@ title: wolfbot - daniel.ga/llegos/projects
 description: a chat bot for discord
 ---
 
-![]({{'/assets/img/projects/wolfbot-love.jpg' | absolute_url}})
+![*bark, bark!*]({{'/assets/img/projects/wolfbot-love.jpg' | absolute_url}} "*bark, bark!*")
 # WolfBot
 ---
 

@@ -1,4 +1,4 @@
-![hey, that's me!]({{'/assets/img/takouhai_white_smile.png' | absolute_url}}){:class="image--header"}
+![hey, that's me!]({{'/assets/img/takouhai_white_smile.png' | absolute_url}} "hey, that's me!"){:class="image--header"}
 
 # Daniel A. Gallegos
 ### code creator. taco aficionado. gaming enthusiast. hispanic. latino. queer. nerd.

@@ -4,7 +4,7 @@ title: personal website - daniel.ga/llegos/projects
 description: a portfolio website for a huge nerd
 ---
 
-![]({{'/assets/img/projects/website.jpg' | absolute_url}})
+![hey, that's this place!]({{'/assets/img/projects/website.jpg' | absolute_url}} "hey, that's this place!")
 # daniel.ga/llegos (dot com?)
 ---
 

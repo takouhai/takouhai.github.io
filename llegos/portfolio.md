@@ -3,7 +3,7 @@ layout: default
 title: portfolio - daniel.ga/llegos
 description: Daniel A. Gallegos' (mostly) professional portfolio.
 ---
-![hey, that's me!]({{'/assets/img/face.jpg' | absolute_url}}){:class="image--header"}
+![hey, that's me!]({{'/assets/img/face.jpg' | absolute_url}} "hey, that's me!"){:class="image--header"}
 # Daniel A. Gallegos
 ## portfolio
 ---
