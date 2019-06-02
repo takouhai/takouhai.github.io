@@ -8,20 +8,20 @@
 ![GitHub repo size in bytes](https://img.shields.io/github/repo-size/takouhai/takouhai.github.io.svg?style=for-the-badge&colorB=black)
 ![GOTTEM](https://img.shields.io/badge/YOU%20KNOW%20WE%20HAD%20TO-DO%20IT%20TO%20%27EM-blue.svg?style=for-the-badge)
 
-This is my portfolio website. There are many like it, but this one is mine.
-
-It's a constant work in progress.
+this is my portfolio website. 
+there are many like it, but this one is mine.
+it's a constant work in progress.
 
 ## built with:
-* Jekyll (Markdown :heart:)
-* GitHub Pages (Free hosting, w00t!)
-* HTML5/CSS3/JS (and more buzzwords)
-* [SMACCS](https://smacss.com/) for SASS layout
-* [BEM](http://getbem.com/) for CSS structure
+* [jekyll](https://jekyllrb.com/)
+* [github pages](https://pages.github.com/)
+* html5/css3/js (and more buzzwords)
+* [smaccs](https://smacss.com/) for sass layout
+* [bem](http://getbem.com/) for css structure
 * and love :green_heart: (awwww)
 
 ## code license:
-[MIT](/LICENSE.md)
+[mit](/LICENSE.md)
 
 ## content:
-:copyright: Daniel A. Gallegos 2018
+:copyright: Daniel Alejandro Gallegos
