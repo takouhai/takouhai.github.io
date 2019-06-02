@@ -18,9 +18,14 @@ i love making things that are fun and easy to use, look good and work great. i h
 
 i run [TacoWolf](https://tacowolf.net) along with a few friends of mine. it's my little home away from home.
 
-i'm currently studying at west virginia 
+i'm currently studying at west virginia university to get a degree in multidisciplinary studies, consisting of:
+* english
+* spanish
+* computer science
+* latin american studies
+* lgbtq+ studies
 
-let's make something together!
+throw me a line, and let's make something together!
 
 ## things to see
 * [projects]({{'/llegos/projects' | absolute_url}})
