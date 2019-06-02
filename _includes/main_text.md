@@ -1,7 +1,7 @@
 ![hey, that's me!]({{'/assets/img/takouhai_white_smile.png' | absolute_url}} "hey, that's me!"){:class="image--header"}
 
-# Daniel A. Gallegos
-### code creator. taco aficionado. gaming enthusiast. hispanic. latino. queer. nerd.
+# daniel alejandro gallegos
+### researcher. developer. designer. taco aficionado. furry. latino. demisexual. panromantic. huge nerd.
 {: .subtitle}
 
 ---
@@ -10,17 +10,17 @@
 
 ---
 
-Hey! I'm Daniel.
+hey! i'm daniel.
 
-I'm a Software Developer, Web Developer, and Graphic Designer.
+i'm a storyteller working at west virginia university's lgbtq+ center. 
 
-I love making things that are fun and easy to use, look good and work great. I have experience with JavaScript/Node, Ruby/Rails, front-end web development, video editing, vector graphics, bitmap graphics, and graphic design.
+i love making things that are fun and easy to use, look good and work great. i have experience with js/node, ruby/ruby on rails, full stack development, video editing, graphic design, and much more!
 
-I run [TacoWolf](https://tacowolf.net) along with a few friends of mine.
+i run [TacoWolf](https://tacowolf.net) along with a few friends of mine. it's my little home away from home.
 
-I'm currently studying at West Virginia University to get a Bachelor's in Computer Science.
+i'm currently studying at west virginia 
 
-Let's make something together!
+let's make something together!
 
 ## things to see
 * [projects]({{'/llegos/projects' | absolute_url}})
