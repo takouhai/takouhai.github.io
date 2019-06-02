@@ -25,7 +25,7 @@ i'm currently studying at west virginia university to get a degree in multidisci
 * latin american studies
 * lgbtq+ studies
 
-throw me a line, and let's make something together!
+<a href='ma&#105;&#108;t&#111;&#58;dani&#101;&#37;&#54;C%4&#48;t&#97;&#99;%&#54;F%77%&#54;F&#108;%66&#46;net'>throw me a line</a>, and let's make something together!
 
 ## things to see
 * [projects]({{'/llegos/projects' | absolute_url}})
