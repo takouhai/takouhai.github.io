@@ -1,7 +1,13 @@
 ![hey, that's me!]({{'/assets/img/takouhai_white_smile.png' | absolute_url}} "hey, that's me!"){:class="image--header"}
 
-# daniel alejandro gallegos
-### researcher. developer. designer. taco aficionado. furry. latino. demisexual. panromantic. huge nerd.
+# daniel 
+# alejandro 
+# gallegos
+### 🔬researcher. 
+{: .subtitle}
+### ⭐storyteller. 
+{: .subtitle}
+### △ nerd.
 {: .subtitle}
 
 ---
