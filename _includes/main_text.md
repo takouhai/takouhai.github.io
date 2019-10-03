@@ -1,18 +1,12 @@
-![hey, that's me!]({{'/assets/img/takouhai_white_smile.png' | absolute_url}} "hey, that's me!"){:class="image--header"}
+![hey, that's me!]({{'/assets/img/face.jpg' | absolute_url}} "hey, that's me!"){:class="image--header"}
 
-# daniel 
-# alejandro 
-# gallegos.
+# daniel alejandro gallegos.
 
-### 💜 alchemist.
+### 🔮 code alchemist. 
 {: .subtitle}
-### ⭐ storyteller.
+### ⭐ digital storyteller. 
 {: .subtitle}
-### ⚠️ nerd.
-{: .subtitle}
-### 🌟 heretic.
-{: .subtitle}
-### 💚 mountaineer.
+### ⚠️ huge nerd.
 {: .subtitle}
 
 ---
@@ -23,17 +17,15 @@
 
 Hey! I'm Daniel.
 
-I'm a Digital Storyteller working at West Virginia University's LGBTQ+ Center. 
+I'm a Full Stack Developer and Graphic Designer that's working as a Student Ambassador at West Virginia University's LGBTQ+ Center. 
 
-I love making things that are fun and easy to use, look good and work great. I have experience with Graphic Design, Creative Writing, Full Stack Development, Node/JS, Ruby/Ruby on Rails, HTML5/CSS3/JS,  Video Editing, and much more!
-
-I run [TacoWolf](https://tacowolf.net) along with a few friends of mine. It's my little home away from home.
+I love making things that are fun and easy to use, look good and work great. I have experience with Full Stack Development, Node/JavaScript, Ruby/Ruby on Rails, Java, HTML5/CSS3/JS, Graphic Design, Creative Writing, Video Editing, and much more!
 
 I'm currently studying at West Virginia University to get a degree in Multidisciplinary Studies, consisting of:
 
+* Computer Science
 * English
 * Spanish
-* Computer Science
 * LGBTQ+ Studies
 * Latin American Studies
 
@@ -44,4 +36,4 @@ I'm currently studying at West Virginia University to get a degree in Multidisci
 * [projects]({{'/llegos/projects' | absolute_url}})
 * [portfolio]({{'/llegos/portfolio' | absolute_url}})
 
-⭐
+🏳‍🌈

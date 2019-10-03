@@ -40,6 +40,21 @@ description: Daniel A. Gallegos' (mostly) professional portfolio.
   - Managed software development projects with clients.
   - Coordinated and managed corporate social media accounts.
 
+#### devAcademy
+* Position: _Software Developer_
+* December 2015 - July 2017 (1y 8mos)
+* Ica, Peru
+  - Developed software using Ruby and JavaScript for American and Peruvian clients.
+  - Developed backend applications with Ruby on Rails and Node.
+  - Developed front-end experiences with Haml and Sass.
+  - Developed mobile applications with React Native.
+  - Researched Amazon Alexa Skill development and home automation integrations.
+  - Implemented Continuous Deployment pipelines with automated testing, static code analysis and tool integrations.
+  - Wrote technical articles for devAcademy Stories.
+  - Provided IT support for the company.
+  - Managed software development projects with clients.
+  - Coordinated and managed corporate social media accounts.
+
 #### Instituto Tecnol&oacute;gico Superior Adventista del Ecuador
 * Position: _Software Developer_
 * April 2015 - July 2015
