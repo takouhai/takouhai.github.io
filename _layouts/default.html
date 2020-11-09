@@ -1,14 +1,13 @@
 <!DOCTYPE html>
-<html lang="en" dir="ltr">
+<html lang="{{ site.lang | default: "en-US" }}">
   <head>
-    {% include metadata.html %}
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8">
+    <title>{{ page.title }} - {{ site.title }}</title>
+    {% include og_tags.html %}
+    <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
   </head>
   <body>
-    <!-- Haha, neeeeeeeeerd! I see you. 👀 -->
-    <div class="content">
-      {% include navigation.html %}
-      {{ content }}
-      {% include footer.html %}
-    </div>
+    {{ content }}
   </body>
 </html>

@@ -6,8 +6,6 @@ url: "https://daniel.ga"
 twitter_username: takouhai
 github_username:  takouhai
 
-theme:
-
 markdown: kramdown
 
 sass:

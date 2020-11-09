@@ -1,8 +1,7 @@
 ---
-title: home - daniel.ga/llegos
-layout: default
+layout: redirect
+title: home
+redirect: /llegos
 ---
-{% include main_text.md %}
-<script>
-  fakeRedirect();
-</script>
+
+# $ cat {{site.title}}

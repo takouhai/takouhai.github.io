@@ -1,5 +1,6 @@
 ---
-title: home - daniel.ga/llegos
 layout: default
+title: home
 ---
-{% include main_text.md %}
+
+# $ cat {{site.title}}
