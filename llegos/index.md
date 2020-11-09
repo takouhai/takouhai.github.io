@@ -3,4 +3,12 @@ layout: default
 title: home
 ---
 
-# $ cat {{site.title}}
+## daniel alejandro gallegos
+
+* 🔮 code alchemist.
+* ⭐ digital storyteller.
+* ⚠️ huge nerd.
+
+**pronouns:** `he/him` or `they/them`
+
+* [about](about)
