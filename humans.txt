@@ -1,0 +1,12 @@
+# TEAM
+
+    Daniel Alejandro Gallegos -- everything -- @takouhai
+
+# THANKS
+
+    for all the fish
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5
+    Normalize.css, Twemoji, Hack Font, Jekyll, GitLab Pages
