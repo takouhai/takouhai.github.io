@@ -1,11 +1,14 @@
 <!DOCTYPE html>
 <html lang="en-US">
-  <meta charset="utf-8">
-  <title>{{ page.title }} - {{ site.title }}</title>
-  <link rel="canonical" href="{{ page.redirect }}">
-  <script>location="{{ page.redirect }}"</script>
-  {% include og_tags.html %}
-  <meta http-equiv="refresh" content="0; url={{ page.redirect }}">
-  <h1>Redirecting&hellip;</h1>
-  <a href="{{ page.redirect }}">Click here if you are not redirected.</a>
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }} - {{ site.title }}</title>
+    <link rel="canonical" href="{{ page.redirect }}">
+    <script>location="{{ page.redirect }}"</script>
+    {% include og_tags.html %}
+    <meta http-equiv="refresh" content="0; url={{ page.redirect }}">
+  </head>
+  <body>
+    {{ content }}    
+  </body>
 </html>

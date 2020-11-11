@@ -1,7 +1,16 @@
 body
   display: grid
-  justify-content: center
-  padding: 5% 10%
-  min-height: 65vh
+  min-height: 70vh
   grid-template-rows: auto 1fr auto
-  max-width: 80%
+  max-width: 666px
+  padding: 42px
+  @media (min-width: 900px)
+    margin: auto
+  @media (max-width: 400px)
+    margin: auto
+
+// header, main, footer  
+//  min-width: 60%
+
+footer
+  text-align: center

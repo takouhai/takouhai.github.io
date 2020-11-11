@@ -8,6 +8,9 @@ github_username:  takouhai
 
 markdown: kramdown
 
+kramdown: 
+  parse_html_block: true
+
 sass:
   sass_dir: _sass
   style: compressed
