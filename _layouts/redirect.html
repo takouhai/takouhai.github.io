@@ -4,9 +4,10 @@
     <meta charset="utf-8">
     <title>{{ page.title }} - {{ site.title }}</title>
     <link rel="canonical" href="{{ page.redirect }}">
-    <script>location="{{ page.redirect }}"</script>
+    {% include favicon.html %}
     {% include og_tags.html %}
     <meta http-equiv="refresh" content="0; url={{ page.redirect }}">
+    <script>location="{{ page.redirect }}"</script>
   </head>
   <body>
     {{ content }}    

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: about
+description: who is this daniel person, anyway?  🤔
 ---
 
 hey, i'm daniel.

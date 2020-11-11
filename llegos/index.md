@@ -4,11 +4,14 @@ title: home
 ---
 
 ## daniel alejandro gallegos
+**pronouns:** *`he/him`* or *`they/them`*
+
+> a.k.a "taco"
 
 * 🔮 code alchemist.
 * ⭐ digital storyteller.
-* ⚠️ huge nerd.
+* 💚 huge nerd.
 
-**pronouns:** `he/him` or `they/them`
+---
 
 * [about](about)
