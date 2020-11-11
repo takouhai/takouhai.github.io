@@ -13,5 +13,7 @@ title: home
 
 ---
 
+### table of contents
+
 * [about](about)
 * [projects](projects)
