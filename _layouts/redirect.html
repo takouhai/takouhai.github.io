@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }} - {{ site.title }}</title>
+    <link rel="canonical" href="{{ page.redirect }}">
+    {% include favicon.html %}
+    {% include og_tags.html %}
+    <meta http-equiv="refresh" content="0; url={{ page.redirect }}">
+    <script>location="{{ page.redirect }}"</script>
+    <link rel="author" href="/humans.txt" />
+  </head>
+  <body>
+    {{ content }}    
+  </body>
+</html>

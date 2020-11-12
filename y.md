@@ -1,20 +1,12 @@
 ---
 layout: default
-title: ha ha ha - daniel.ga/y 🌈
-description: aren't you clever
+title: ha ha ha very funny
 ---
 
-# daniel a gay
----
+# yes, daniel gay
 
-## yeah
+haha funny joke
 
-### that me
+it's less funny because there's .gay domains now
 
-#### 🌈 daniel gay 🌈
-{: .gay}
-
-(actually it's daniel demisexual but ok)
-
-(that sounds like a cool superhero name)
-{: .small}
+but anyways i'm demisexual! 

@@ -1,8 +1,13 @@
 ---
-title: home - daniel.ga/llegos
-layout: default
+layout: redirect
+title: home
+redirect: /llegos
 ---
-{% include main_text.md %}
-<script>
-  fakeRedirect();
-</script>
+
+# $ cat {{site.title}}
+
+redirecting you seamlessly to /llegos...
+
+if you're seeing this, get faster internet? idk.
+
+[click this link if it doesn't do it automagically.](/llegos)

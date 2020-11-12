@@ -1,14 +1,13 @@
 title: daniel.ga/llegos
-email:
-description: code alchemist. digital storyteller. huge nerd.
-baseurl: ""
+description: 🔮 code alchemist. ⭐ digital storyteller. 💚 huge nerd.
 url: "https://daniel.ga"
 twitter_username: takouhai
 github_username:  takouhai
 
-theme:
-
 markdown: kramdown
+
+kramdown: 
+  parse_html_block: true
 
 sass:
   sass_dir: _sass
