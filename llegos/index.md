@@ -1,6 +1,7 @@
 ---
 layout: default
 title: home
+description: daniel a. gallegos
 ---
 # 👨‍💻️ daniel alejandro gallegos
 **pronouns:** *`he/him`* or *`they/them`*
