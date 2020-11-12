@@ -16,3 +16,13 @@ kramdown:
 sass:
   sass_dir: _sass
   style: compressed
+
+compress_html:
+  clippings: []
+  comments: []
+  endings: []
+  ignore:
+  envs: []
+  blanklines: false
+  profile: false
+  startings: []
