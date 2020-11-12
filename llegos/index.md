@@ -10,6 +10,7 @@ title: home
 * 🔮 code alchemist.
 * ⭐ digital storyteller.
 * 💚 huge nerd.
+{: .hero}
 
 ---
 
