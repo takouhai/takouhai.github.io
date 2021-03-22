@@ -6,7 +6,7 @@ description: code projects i gone and done 👨‍💻️
 
 # projects
 
-> information on all of my projects. 
+> information on all of my personal projects. 
 
 |name|description|image|link|
 |---|---|---|---|
