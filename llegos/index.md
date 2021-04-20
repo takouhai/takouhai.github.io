@@ -3,6 +3,10 @@ layout: default
 title: home
 description: daniel a. gallegos
 ---
+
+![hey, that's me!]({{'/assets/img/daniel.jpg' | absolute_url}})
+{: .face}
+
 # 👨‍💻️ daniel alejandro gallegos
 **pronouns:** *`he/him`* or *`they/them`*
 
