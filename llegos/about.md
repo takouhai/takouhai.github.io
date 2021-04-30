@@ -4,7 +4,16 @@ title: about
 description: who is this daniel person, anyway?  🤔
 ---
 
-Daniel Alejandro Gallegos is a Full-Stack Software Developer who works with businesses, governments, educators, non-profits, and startups to create digital solutions for your real-world problems, ranging from government enterprise applications to creating graphic assets for professional digital portfolios. After spending a decade working with HTML, CSS, JavaScript, Node.js, Ruby, Java, Linux, Windows, and more, Daniel is more than capable of handling whatever software or hardware problem you need solved. 
+![hey, that's me!]({{'/assets/img/daniel.jpg' | absolute_url}})
+{: .face}
+
+# Daniel Alejandro Gallegos 
+
+**pronouns:** *`he/him`* or *`they/them`*
+
+> a.k.a "takouhai", "taco", 🌮
+
+is a Full-Stack Software Developer who works with businesses, governments, educators, non-profits, and startups to create digital solutions for your real-world problems, ranging from government enterprise applications to creating graphic assets for professional digital portfolios. After spending a decade working with HTML, CSS, JavaScript, Node.js, Ruby, Java, Linux, Windows, and more, Daniel is more than capable of handling whatever software or hardware problem you need solved. 
 
 Daniel has contributed to projects around the world, including developing enterprise Java applications for the Peruvian government, creating on-brand graphic assets for multiple offices at West Virginia University, redesigning an entire technical institute’s website, and working as a HIPPA-compliant system administrator for a harm reduction coalition. In addition to his extensive software development experience, Daniel is a skilled technical writer, copywriter, and graphic designer. 
 
