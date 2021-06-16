@@ -17,7 +17,7 @@ is a Full-Stack Software Developer who works with businesses, governments, educa
 
 Daniel has contributed to projects around the world, including developing enterprise Java applications for the Peruvian government, creating on-brand graphic assets for multiple offices at West Virginia University, redesigning an entire technical institute’s website, and working as a HIPPA-compliant system administrator for a harm reduction coalition. In addition to his extensive software development experience, Daniel is a skilled technical writer, copywriter, and graphic designer. 
 
-Daniel holds a BA in Multidisciplinary Studies from West Virginia University, which includes (but is not limited to) areas of study such as: Computer Science, English, Spanish, Latin American Studies, and LGBTQ+ Studies.  
+Daniel holds a Bachelors in Multidisciplinary Studies (BMdS) from West Virginia University, which includes areas of study such as: Computer Science, English, Spanish, Latin American Studies, and LGBTQ+ Studies.  
 
 View Daniel's résumé [here]({{'/assets/danielgallegos.resume.pdf' | absolute_url}}){:target="_blank" rel="noreferrer"}.
 
